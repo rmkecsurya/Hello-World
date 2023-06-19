@@ -1,1 +1,1 @@
-pririn("Hello From github")
+print("Hello From github")
